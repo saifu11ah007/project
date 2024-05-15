@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "source_location": "cpp",
+    "stacktrace": "cpp",
+    "iosfwd": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
